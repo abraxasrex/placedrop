@@ -1,0 +1,11 @@
+{
+  "name": "placedrop",
+  "description": "place custom post-it notes on a map",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.13.4"
+  }
+}
